@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary> 🔝 Info
+  <summary> 🔝 Info </summary>
 <p align="center">
   <a href="https://github.com/bkmtva">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkmtva&theme=transparent" />
