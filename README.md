@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m working as Python Backend Developer. My [CV]([https://t.me/bkmtva](https://drive.google.com/file/d/1fU-qgdTZQDXocFbVBWF_Hg2wEhVccuNM/view?usp=sharing)
-
+🔭 I’m working as Python Backend Developer. My [CV](https://drive.google.com/file/d/1fU-qgdTZQDXocFbVBWF_Hg2wEhVccuNM/view?usp=sharing)
  <br>🌱 I'm always hungry for knowledge, constantly exploring new technologies to stay up to date. <br>👯 Feel free to reach out and invite me to collaborate. Let's bring our ideas together and create something extraordinary!<br>💬 If you want to chat or ask me anything, you can reach me on [Telegram](https://t.me/bkmtva)
 
 
